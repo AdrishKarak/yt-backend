@@ -4,14 +4,14 @@
     <option name="autoReloadType" value="SELECTIVE" />
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="248cef1e-4bb3-4124-9467-603a273614de" name="Changes" comment="connected to mongo atlas">
-      <change afterPath="$PROJECT_DIR$/src/utils/ApiError.js" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/utils/asyncHandler.js" afterDir="false" />
+    <list default="true" id="248cef1e-4bb3-4124-9467-603a273614de" name="Changes" comment="api response and error handling and utils discusiion">
+      <change afterPath="$PROJECT_DIR$/src/middlewares/multer.middleware.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/models/user.model.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/models/video.model.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/utils/cloudinary.js" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/package-lock.json" beforeDir="false" afterPath="$PROJECT_DIR$/package-lock.json" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/package.json" beforeDir="false" afterPath="$PROJECT_DIR$/package.json" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/app.js" beforeDir="false" afterPath="$PROJECT_DIR$/src/app.js" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/index.js" beforeDir="false" afterPath="$PROJECT_DIR$/src/index.js" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -41,7 +41,7 @@
   }
 }</component>
   <component name="ProblemsViewState">
-    <option name="selectedTabId" value="AISelfReview" />
+    <option name="selectedTabId" value="CurrentFile" />
   </component>
   <component name="ProjectColorInfo">{
   &quot;associatedIndex&quot;: 0
@@ -86,7 +86,7 @@
       <workItem from="1756065371608" duration="190000" />
       <workItem from="1756065677308" duration="9996000" />
       <workItem from="1756096424274" duration="949000" />
-      <workItem from="1756324626562" duration="5202000" />
+      <workItem from="1756324626562" duration="17516000" />
     </task>
     <task id="LOCAL-00001" summary="add prettier">
       <option name="closed" value="true" />
@@ -104,7 +104,15 @@
       <option name="project" value="LOCAL" />
       <updated>1756083779902</updated>
     </task>
-    <option name="localTasksCounter" value="3" />
+    <task id="LOCAL-00003" summary="api response and error handling and utils discusiion">
+      <option name="closed" value="true" />
+      <created>1756417273872</created>
+      <option name="number" value="00003" />
+      <option name="presentableId" value="LOCAL-00003" />
+      <option name="project" value="LOCAL" />
+      <updated>1756417273872</updated>
+    </task>
+    <option name="localTasksCounter" value="4" />
     <servers />
   </component>
   <component name="TypeScriptGeneratedFilesManager">
@@ -113,6 +121,7 @@
   <component name="VcsManagerConfiguration">
     <MESSAGE value="add prettier" />
     <MESSAGE value="connected to mongo atlas" />
-    <option name="LAST_COMMIT_MESSAGE" value="connected to mongo atlas" />
+    <MESSAGE value="api response and error handling and utils discusiion" />
+    <option name="LAST_COMMIT_MESSAGE" value="api response and error handling and utils discusiion" />
   </component>
 </project>
