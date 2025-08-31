@@ -4,9 +4,12 @@
     <option name="autoReloadType" value="SELECTIVE" />
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="248cef1e-4bb3-4124-9467-603a273614de" name="Changes" comment="hooks , jwt">
-      <change afterPath="$PROJECT_DIR$/src/controllers/user.controller.js" afterDir="false" />
+    <list default="true" id="248cef1e-4bb3-4124-9467-603a273614de" name="Changes" comment="usercontroller">
+      <change afterPath="$PROJECT_DIR$/src/routes/user.routes.js" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/app.js" beforeDir="false" afterPath="$PROJECT_DIR$/src/app.js" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/controllers/user.controller.js" beforeDir="false" afterPath="$PROJECT_DIR$/src/controllers/user.controller.js" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/index.js" beforeDir="false" afterPath="$PROJECT_DIR$/src/index.js" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -60,6 +63,7 @@
     "node.js.selected.package.tslint": "(autodetect)",
     "nodejs_package_manager_path": "npm",
     "prettierjs.PrettierConfiguration.Package": "C:\\Users\\runak\\OneDrive\\Desktop\\yt-backend\\node_modules\\prettier",
+    "settings.editor.selected.configurable": "preferences.pluginManager",
     "ts.external.directory.path": "C:\\Program Files\\JetBrains\\WebStorm 2025.1.3\\plugins\\javascript-plugin\\jsLanguageServicesImpl\\external",
     "vue.rearranger.settings.migration": "true"
   }
@@ -81,7 +85,7 @@
       <workItem from="1756065371608" duration="190000" />
       <workItem from="1756065677308" duration="9996000" />
       <workItem from="1756096424274" duration="949000" />
-      <workItem from="1756324626562" duration="18890000" />
+      <workItem from="1756324626562" duration="20881000" />
     </task>
     <task id="LOCAL-00001" summary="add prettier">
       <option name="closed" value="true" />
@@ -115,7 +119,15 @@
       <option name="project" value="LOCAL" />
       <updated>1756581895133</updated>
     </task>
-    <option name="localTasksCounter" value="5" />
+    <task id="LOCAL-00005" summary="usercontroller">
+      <option name="closed" value="true" />
+      <created>1756626450163</created>
+      <option name="number" value="00005" />
+      <option name="presentableId" value="LOCAL-00005" />
+      <option name="project" value="LOCAL" />
+      <updated>1756626450164</updated>
+    </task>
+    <option name="localTasksCounter" value="6" />
     <servers />
   </component>
   <component name="TypeScriptGeneratedFilesManager">
@@ -126,6 +138,7 @@
     <MESSAGE value="connected to mongo atlas" />
     <MESSAGE value="api response and error handling and utils discusiion" />
     <MESSAGE value="hooks , jwt" />
-    <option name="LAST_COMMIT_MESSAGE" value="hooks , jwt" />
+    <MESSAGE value="usercontroller" />
+    <option name="LAST_COMMIT_MESSAGE" value="usercontroller" />
   </component>
 </project>
