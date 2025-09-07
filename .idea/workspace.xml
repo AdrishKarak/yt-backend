@@ -4,11 +4,9 @@
     <option name="autoReloadType" value="SELECTIVE" />
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="248cef1e-4bb3-4124-9467-603a273614de" name="Changes" comment="login and logout">
-      <change afterPath="$PROJECT_DIR$/src/middlewares/auth.middleware.js" afterDir="false" />
+    <list default="true" id="248cef1e-4bb3-4124-9467-603a273614de" name="Changes" comment="refresh &amp; access token">
+      <change afterPath="$PROJECT_DIR$/src/models/subscription.model.js" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/controllers/user.controller.js" beforeDir="false" afterPath="$PROJECT_DIR$/src/controllers/user.controller.js" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/routes/user.routes.js" beforeDir="false" afterPath="$PROJECT_DIR$/src/routes/user.routes.js" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -87,7 +85,7 @@
       <workItem from="1756324626562" duration="20916000" />
       <workItem from="1756657705659" duration="4540000" />
       <workItem from="1756795314184" duration="5704000" />
-      <workItem from="1757067759006" duration="13753000" />
+      <workItem from="1757067759006" duration="17448000" />
     </task>
     <task id="LOCAL-00001" summary="add prettier">
       <option name="closed" value="true" />
@@ -153,7 +151,15 @@
       <option name="project" value="LOCAL" />
       <updated>1757098287965</updated>
     </task>
-    <option name="localTasksCounter" value="9" />
+    <task id="LOCAL-00009" summary="refresh &amp; access token">
+      <option name="closed" value="true" />
+      <created>1757256784969</created>
+      <option name="number" value="00009" />
+      <option name="presentableId" value="LOCAL-00009" />
+      <option name="project" value="LOCAL" />
+      <updated>1757256784969</updated>
+    </task>
+    <option name="localTasksCounter" value="10" />
     <servers />
   </component>
   <component name="TypeScriptGeneratedFilesManager">
@@ -168,6 +174,7 @@
     <MESSAGE value="userroutes" />
     <MESSAGE value="register control" />
     <MESSAGE value="login and logout" />
-    <option name="LAST_COMMIT_MESSAGE" value="login and logout" />
+    <MESSAGE value="refresh &amp; access token" />
+    <option name="LAST_COMMIT_MESSAGE" value="refresh &amp; access token" />
   </component>
 </project>
