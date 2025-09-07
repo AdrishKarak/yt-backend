@@ -4,13 +4,11 @@
     <option name="autoReloadType" value="SELECTIVE" />
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="248cef1e-4bb3-4124-9467-603a273614de" name="Changes" comment="register control">
+    <list default="true" id="248cef1e-4bb3-4124-9467-603a273614de" name="Changes" comment="login and logout">
+      <change afterPath="$PROJECT_DIR$/src/middlewares/auth.middleware.js" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/app.js" beforeDir="false" afterPath="$PROJECT_DIR$/src/app.js" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/src/controllers/user.controller.js" beforeDir="false" afterPath="$PROJECT_DIR$/src/controllers/user.controller.js" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/middlewares/multer.middleware.js" beforeDir="false" afterPath="$PROJECT_DIR$/src/middlewares/multer.middleware.js" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/src/routes/user.routes.js" beforeDir="false" afterPath="$PROJECT_DIR$/src/routes/user.routes.js" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/utils/cloudinary.js" beforeDir="false" afterPath="$PROJECT_DIR$/src/utils/cloudinary.js" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -89,7 +87,7 @@
       <workItem from="1756324626562" duration="20916000" />
       <workItem from="1756657705659" duration="4540000" />
       <workItem from="1756795314184" duration="5704000" />
-      <workItem from="1757067759006" duration="7796000" />
+      <workItem from="1757067759006" duration="13753000" />
     </task>
     <task id="LOCAL-00001" summary="add prettier">
       <option name="closed" value="true" />
@@ -147,7 +145,15 @@
       <option name="project" value="LOCAL" />
       <updated>1756670518853</updated>
     </task>
-    <option name="localTasksCounter" value="8" />
+    <task id="LOCAL-00008" summary="login and logout">
+      <option name="closed" value="true" />
+      <created>1757098287965</created>
+      <option name="number" value="00008" />
+      <option name="presentableId" value="LOCAL-00008" />
+      <option name="project" value="LOCAL" />
+      <updated>1757098287965</updated>
+    </task>
+    <option name="localTasksCounter" value="9" />
     <servers />
   </component>
   <component name="TypeScriptGeneratedFilesManager">
@@ -161,18 +167,7 @@
     <MESSAGE value="usercontroller" />
     <MESSAGE value="userroutes" />
     <MESSAGE value="register control" />
-    <option name="LAST_COMMIT_MESSAGE" value="register control" />
-  </component>
-  <component name="XDebuggerManager">
-    <breakpoint-manager>
-      <breakpoints>
-        <line-breakpoint enabled="true" type="javascript">
-          <url>file://$PROJECT_DIR$/src/controllers/user.controller.js</url>
-          <line>22</line>
-          <properties lambdaOrdinal="-1" />
-          <option name="timeStamp" value="1" />
-        </line-breakpoint>
-      </breakpoints>
-    </breakpoint-manager>
+    <MESSAGE value="login and logout" />
+    <option name="LAST_COMMIT_MESSAGE" value="login and logout" />
   </component>
 </project>
